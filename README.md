@@ -40,4 +40,4 @@ Link (dataset columns explanation can be found on the link): https://archive.ics
     - False Negative - 3
 
 ## Conclusion
-  - There are 3 models generated on the analysis. The best model is Logistic Regression which has 96% accuracy. 
+There are 3 models generated on the analysis. The best model is Logistic Regression which has 96% accuracy. 
