@@ -1,8 +1,7 @@
 # Breast-Cancer-Prediction
 ## Data Source
 Breast Cancer Wisconsin (Diagnostic)\
-Data Set
-Link (dataset columns explanation can be found on the link): https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+Data Set Link https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
 
 ## Objective
