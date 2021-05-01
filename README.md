@@ -6,7 +6,7 @@ Link (dataset columns explanation can be found on the link): https://archive.ics
 
 
 ## Objective
-  - Create a Python script to perform a sentiment analysis of the Twitter activity of various news oulets, and to present your findings visually. Your final output should provide a visualized summary of the sentiments expressed in Tweets sent out by the following news organizations: BBC, CBS, CNN, Fox, and New York times.
+  - Generate a classification model (Logistics Regression, K-Nearest Neighbor, and Support Vector Machine) and determine which model is the best for the problem. Make sure to perform the necessary data cleaning steps (scaling, splitting, correlation, etc.) before generating the model. 
 
 ## Method
   - Analyze columns (remove not needed columns)
